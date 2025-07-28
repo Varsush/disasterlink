@@ -116,5 +116,12 @@ For any questions or inquiries, feel free to reach out to me  or open an issue o
 DisasterLink aims to bridge the gap between affected communities and emergency services, providing them with the necessary tools to stay safe and informed. Together, we can make a difference!
 
 ---
+## 👨‍💻 Team Members
+- [@Varun987-a11](https://github.com/Varun987-a11)  
+- [@Sujan-4](https://github.com/Sujan-4)  
+- [@Varsush](https://github.com/Varsush)    
+- [@Shlaghana16](https://github.com/Shlaghana16)
+
+-----
 
 
